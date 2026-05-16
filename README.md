@@ -1,16 +1,18 @@
 # Kiron Neal Iyer
 
-Commercial operator in Berlin — DSP partnerships and data strategy at a major label,
+Commercial operator in Berlin — strategic partnerships strategy & operations at a major label,
 with a formal mandate for AI operations and agentic infrastructure design.
 
 I build tools for the work I do and for the work I want to do next.
 
 ## Shipped
 
-| Project | What it does |
-|---|---|
-| [claude-github-sync](https://github.com/kironiyer-source/claude-github-sync) | Two-repo backup system for Claude Code config and an Obsidian knowledge vault — any cloud session bootstraps with full context via a single command |
-| [cv-creator-skill](https://github.com/kironiyer-source/cv-creator-skill) | Eight-phase LLM-orchestrated CV workflow — contingency axes, XYZ evidence validation, audit gate, LaTeX output. Designed around interview defensibility, not ATS keywords |
+| Project                                                                            | What it does                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [brainstorm-agent-team](https://github.com/kironiyer-source/brainstorm-agent-team) | Claude Code skill orchestrating 4 parallel creative personas + Realist evaluator across multi-round sessions; produces ranked synthesis doc with effort/impact/risk verdicts |
+| [brand-ci-pptx-skill](https://github.com/kironiyer-source/brand-ci-pptx-skill)     | Claude Code skill template for building brand-specific PPTX skills — two-phase init from real templates, learns from draft-vs-final diffs                                    |
+| [claude-github-sync](https://github.com/kironiyer-source/claude-github-sync)       | Two-repo backup system for Claude Code config + Obsidian vault; single-command cloud session bootstrap                                                                       |
+| [cv-creator-skill](https://github.com/kironiyer-source/cv-creator-skill)           | Eight-phase LLM-orchestrated CV workflow with contingency axes, XYZ evidence validation, audit gate, and LaTeX output                                                        |
 
 ## In progress
 
